@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/src/AspNetCoreBoilerplate.Migrator/AspNetCoreBoilerplate.Migrator.csproj"
+                "${workspaceFolder}/src/AspNetCoreBoilerplate.Web.Host/AspNetCoreBoilerplate.Web.Host.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

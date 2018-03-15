@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/src/AspNetCoreBoilerplate.Migrator/bin/Debug/netcoreapp2.0/AspNetCoreBoilerplate.Migrator.dll",
+            "program": "${workspaceFolder}/src/AspNetCoreBoilerplate.Web.Host/bin/Debug/netcoreapp2.0/AspNetCoreBoilerplate.Web.Host.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/src/AspNetCoreBoilerplate.Migrator",
+            "cwd": "${workspaceFolder}/src/AspNetCoreBoilerplate.Web.Host",
             // For more information about the 'console' field, see https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md#console-terminal-window
             "console": "internalConsole",
             "stopAtEntry": false,
